@@ -6,4 +6,4 @@ Este repositorio contiene plantillas personalizadas de OSMTracker para mapear en
 
 ## *Plantillas disponibles:*
 + [Transporte público.](https://github.com/mapanica/osmtracker-android-layouts/blob/master/layouts/transporte_publico/README.md)
-+ [Parques públicos.](https://github.com/mapanica/osmtracker-android-layouts/blob/master/layouts/parques/README.md)
++ [Parques públicos.](https://github.com/mapanica/osmtracker-android-layouts/blob/master/layouts/parques_publicos/README.md)
