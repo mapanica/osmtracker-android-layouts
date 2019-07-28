@@ -1,11 +1,9 @@
-# OSMTracker Custom Layouts
+# Plantillas OSMTracker para Nicaragua
 
-This is OSMTracker's default repository for download custom layouts functionality. The layouts here hosted are created and maintained by OSMTracker community, new contributions are welcomed.
+Este repositorio contiene plantillas personalizadas de OSMTracker para mapear en Nicaragua. Están basadas en el [repositorio por defecto](https://github.com/labexp/osmtracker-android-layouts), y son mantenidas por la comunidad de OpenStreetMap en Nicaragua, MapaNica.net. Nuevas contribuciones son bienvenidas.
 
-[Here](https://github.com/labexp/osmtracker-android-layouts/wiki) you can learn how contribute with the community.
+[Aquí](https://github.com/labexp/osmtracker-android-layouts/wiki) se puede aprender más sobre cómo contribuir con la comunidad.
 
-## *Available Layouts:*
-+ [Hidrantes.](https://github.com/labexp/osmtracker-android-layouts/blob/master/layouts/hidrantes/README.md)
-+ [Transporte público.](https://github.com/labexp/osmtracker-android-layouts/blob/master/layouts/transporte_publico/README.md)
-+ [Accesibilidad.](https://github.com/labexp/osmtracker-android-layouts/blob/master/layouts/accesibilidad/README.md)
-+ [Water Supplies.](https://github.com/labexp/osmtracker-android-layouts/blob/master/layouts/water_supply/README.md)
+## *Plantillas disponibles:*
++ [Transporte público.](https://github.com/mapanica/osmtracker-android-layouts/blob/master/layouts/transporte_publico/README.md)
++ [Parques públicos.](https://github.com/mapanica/osmtracker-android-layouts/blob/master/layouts/parques/README.md)
