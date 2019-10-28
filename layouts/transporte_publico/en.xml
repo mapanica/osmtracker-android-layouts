@@ -7,20 +7,20 @@
 			<button type="textnote" icon="text_32x32" />
 		</row>
 		<row>
-			<button type="tag" label="Bus stop - simple" icon="/transporte_publico_icons/parada_bus_1.png" />
-			<button type="tag" label="Bus stop - shelter" icon="/transporte_publico_icons/parada_bus_2.png" />
-			<button type="tag" label="Bus stop - bench" icon="/transporte_publico_icons/parada_bus_3.png" />
+			<button type="tag" label="Bus stop - simple" icon="/transporte_publico_icons/parada_bus_1-32px.png" />
+			<button type="tag" label="Bus stop - shelter" icon="/transporte_publico_icons/parada_bus_2-32px.png" />
+			<button type="tag" label="Bus stop - bench" icon="/transporte_publico_icons/parada_bus_3-32px.png" />
 		</row>
 		<row>
-			<button type="tag" label="Bus station" icon="/transporte_publico_icons/bus_terminal.png" />
-			<button type="tag" label="Taxis station" icon="/transporte_publico_icons/taxi.png" />
-			<button type="tag" label="Caponera station" icon="/transporte_publico_icons/caponera_terminal.png" />
+			<button type="tag" label="Bus station" icon="/transporte_publico_icons/bus_terminal-32px.png" />
+			<button type="tag" label="Taxis station" icon="/transporte_publico_icons/taxi-32px.png" />
+			<button type="tag" label="Caponera station" icon="/transporte_publico_icons/caponera_terminal-32px.png" />
 		</row>
 		<row>
-			<button type="tag" label="Bycicle repair" icon="/transporte_publico_icons/taller_bici.png" />
-			<button type="tag" label="Cyclo path - start" icon="/transporte_publico_icons/ciclovia.png" />
-			<button type="tag" label="Cyclo path - end" icon="/transporte_publico_icons/ciclovia.png" />
-			<button type="tag" label="Bycicle parking" icon="/transporte_publico_icons/parqueo_bici.png" />
+			<button type="tag" label="Bycicle repair" icon="/transporte_publico_icons/taller_bici-32px.png" />
+			<button type="tag" label="Cyclo path - start" icon="/transporte_publico_icons/ciclovia-32px.png" />
+			<button type="tag" label="Cyclo path - end" icon="/transporte_publico_icons/ciclovia-32px.png" />
+			<button type="tag" label="Bycicle parking" icon="/transporte_publico_icons/parqueo_bici-32px.png" />
 		</row>
 		
 	</layout>
